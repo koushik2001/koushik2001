@@ -32,5 +32,9 @@
 
 ![Koushik's github stats](https://github-readme-stats.vercel.app/api?username=koushik2001&show_icons=true&theme=dracula)
 
-![Profile Views](https://komarev.com/ghpvc/?username=koushik2001)
-
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/koushik2001/count.svg" alt="" /></td>
+  </tr>
+</table>
