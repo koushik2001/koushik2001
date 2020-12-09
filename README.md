@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Competitive Programming and Machine Learning Projects**
 
-- 🌱 I’m currently learning **Java**
-
 - 👯 I’m looking to collaborate on **Machine Learning Hackathons**
 
 - 👨‍💻 All of my projects are available at 
