@@ -8,11 +8,11 @@
 - 👯 I’m looking to collaborate on **Machine Learning Hackathons**
 
 - 👨‍💻 All of my projects are available at 
-- [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/koushik2001/)](https://github.com/koushik2001/) 
+- [![Github Badge](http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/koushik2001/)](https://github.com/koushik2001/) 
 
 
 - 📝 I regulary write articles in 
-- [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/koushik222/articles)](https://auth.geeksforgeeks.org/user/koushik222/articles)
+- [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/koushik222/articles)](https://auth.geeksforgeeks.org/user/koushik222/articles)
 
 
 - 💬 Ask me about **Machine Learning and Deep Learning**
