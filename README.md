@@ -19,7 +19,7 @@
 
 - 📫 How to reach me 
 
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saikoushik2/)](https://www.linkedin.com/in/saikoushik2)   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saikoushikkalakota@gmail.com)](mailto:saikoushikkalakota@gmail.com)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/koushi139)](https://instagram.com/koushi139)
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saikoushik2/)](https://www.linkedin.com/in/saikoushik2)   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:saikoushikkalakota@gmail.com)](mailto:saikoushikkalakota@gmail.com)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/koushi139)](https://instagram.com/koushi139)
 
 - **Tools I Use:**
 
