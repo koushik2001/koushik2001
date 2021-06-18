@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Koushik</h1>
-<h4 align="center">I am a developer who is passionate about exploring, learning and building new things every day. I would love to share my knowledge and collaborate with people.</h4>
+<h4 align="center">I am a developer who is passionate about exploring, learning and building new things. I would love to share my knowledge and collaborate with people.</h4>
 
 - 🔭 I’m currently working on **Competitive Programming and Machine Learning Projects**
 
