@@ -9,9 +9,6 @@
 
 <img height="450" src="Programming-bro.svg" align=right>
 
-- 📝 I regulary write articles in 
-- [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/koushik222/articles)](https://auth.geeksforgeeks.org/user/koushik222/articles)
-
 
 - 💬 Ask me about **Machine Learning and Deep Learning**
 
