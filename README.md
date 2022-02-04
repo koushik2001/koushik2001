@@ -14,7 +14,7 @@
 
 - 📫 How to reach me 
 
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saikoushik2/)](https://www.linkedin.com/in/saikoushik2)   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saikoushikkalakota@gmail.com)](mailto:saikoushikkalakota@gmail.com)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/koushik____kalakota)](https://www.instagram.com/koushik____kalakota)
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saikoushik2/)](https://www.linkedin.com/in/saikoushik2)   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saikoushikkalakota@gmail.com)](mailto:saikoushikkalakota@gmail.com)  
 
 
 - **Skills:**
